@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1570" viewBox="0 0 1000 1570" role="img" aria-labelledby="title desc">
+  <title id="title">Biotecnología, ética y sociedad — Miguel Moreno</title>
+  <desc id="desc">Portada de monografía técnica, versión 5 de 2026.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071d20"/>
+      <stop offset="0.52" stop-color="#0b4f4b"/>
+      <stop offset="1" stop-color="#063b3a"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#b6e2b0" stop-opacity=".18"/>
+      <stop offset=".6" stop-color="#54b69a" stop-opacity=".06"/>
+      <stop offset="1" stop-color="#0b4f4b" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+    <style>
+      .sans { font-family: Inter, Avenir Next, Helvetica Neue, Arial, sans-serif; }
+      .hair { fill:none; stroke:#8dd0b4; stroke-opacity:.55; stroke-width:2; }
+      .fine { fill:none; stroke:#b9e5c0; stroke-opacity:.38; stroke-width:1.5; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="1570" fill="url(#bg)"/>
+  <circle cx="500" cy="590" r="430" fill="url(#halo)" filter="url(#soft)"/>
+
+  <!-- restrained editorial frame -->
+  <path d="M72 72H928M72 1498H928" stroke="#9ad9bd" stroke-opacity=".34"/>
+  <path d="M72 72V112M928 72V112M72 1458V1498M928 1458V1498" stroke="#9ad9bd" stroke-opacity=".34"/>
+
+  <!-- abstract bio-inspired circular diagram -->
+  <g transform="translate(500 535)">
+    <circle r="315" class="hair"/>
+    <circle r="244" class="hair"/>
+    <circle r="168" class="hair"/>
+    <circle r="88" class="fine"/>
+    <g class="fine">
+      <path d="M0-315V315M-315 0H315M-223-223L223 223M223-223L-223 223"/>
+      <path d="M0-244V244M-244 0H244M-173-173L173 173M173-173L-173 173"/>
+    </g>
+    <!-- molecular nodes -->
+    <g fill="#c9e89e" fill-opacity=".9">
+      <circle cx="0" cy="-315" r="5"/><circle cx="223" cy="-223" r="5"/>
+      <circle cx="315" cy="0" r="5"/><circle cx="223" cy="223" r="5"/>
+      <circle cx="0" cy="315" r="5"/><circle cx="-223" cy="223" r="5"/>
+      <circle cx="-315" cy="0" r="5"/><circle cx="-223" cy="-223" r="5"/>
+    </g>
+    <!-- stylised cellular petals -->
+    <g fill="none" stroke="#d6eca5" stroke-opacity=".72" stroke-width="3">
+      <path d="M0-42 C-82-88-124-152-93-205 C-38-192 0-133 0-42Z"/>
+      <path d="M42 0 C88-82 152-124 205-93 C192-38 133 0 42 0Z" transform="rotate(45)"/>
+      <path d="M0-42 C-82-88-124-152-93-205 C-38-192 0-133 0-42Z" transform="rotate(90)"/>
+      <path d="M0-42 C-82-88-124-152-93-205 C-38-192 0-133 0-42Z" transform="rotate(180)"/>
+      <path d="M0-42 C-82-88-124-152-93-205 C-38-192 0-133 0-42Z" transform="rotate(270)"/>
+    </g>
+    <circle r="18" fill="#d6eca5" fill-opacity=".9"/>
+    <circle r="7" fill="#0b4f4b"/>
+  </g>
+
+  <!-- metadata -->
+  <text x="500" y="118" text-anchor="middle" class="sans" fill="#a8dfbd" font-size="23" letter-spacing="4">MONOGRAFÍA TÉCNICA</text>
+  <text x="500" y="153" text-anchor="middle" class="sans" fill="#d5edc1" font-size="21" letter-spacing="3">M3856121</text>
+
+  <line x1="160" y1="875" x2="840" y2="875" stroke="#a8dfbd" stroke-opacity=".5"/>
+  <text x="500" y="970" text-anchor="middle" class="sans" fill="#f2f5e9" font-size="66" font-weight="500" letter-spacing="1">Biotecnología,</text>
+  <text x="500" y="1048" text-anchor="middle" class="sans" fill="#f2f5e9" font-size="66" font-weight="500" letter-spacing="1">ética y sociedad</text>
+  <text x="500" y="1130" text-anchor="middle" class="sans" fill="#9fe0be" font-size="25" letter-spacing="5">v.5 — 2026</text>
+
+  <text x="500" y="1390" text-anchor="middle" class="sans" fill="#f2f5e9" font-size="29" font-weight="600" letter-spacing="8">MIGUEL MORENO</text>
+  <text x="500" y="1432" text-anchor="middle" class="sans" fill="#9fe0be" font-size="15" letter-spacing="2">MANUAL PARA ESTUDIANTES DE POSGRADO</text>
+</svg>
