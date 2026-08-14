@@ -9,6 +9,10 @@
 
 Material docente para el Máster Universitario en Biotecnología de la Universidad de Granada. Proporciona los elementos conceptuales necesarios para adquirir una perspectiva informada y crítica sobre las biotecnologías y sus aplicaciones, con especial atención a la distorsión de la opinión pública que producen ciertos patrones de comunicación de la ciencia.
 
+## Portada
+
+![Portada generada con Perplexity](img/cover2.png){width="430" fig-alt="Portada de la monografía: composición de estructuras geométricas concéntricas sobre fondo verde"}
+
 ## Disponibilidad
 
 El sitio se despliega desde este repositorio en varios servicios espejo. Todos sirven el mismo contenido; si uno falla, cualquiera de los demás funciona.
