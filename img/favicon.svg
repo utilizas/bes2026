@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img"
+     aria-label="Biotecnología, ética y sociedad">
+  <title>Biotecnología, ética y sociedad</title>
+  <!-- Teja opaca: garantiza contraste sobre cualquier fondo de pestaña,
+       claro u oscuro, sin depender de prefers-color-scheme. -->
+  <rect width="64" height="64" rx="13" fill="#0F3D36"/>
+  <g fill="none" stroke="#E8E3D3" stroke-linecap="round">
+    <!-- Anillo exterior: el trazo se mantiene en 3.2 px sobre 64 (5 %) para
+         que sobreviva al rasterizado a 16 px. -->
+    <circle cx="32" cy="32" r="21" stroke-width="3.2"/>
+    <!-- Ejes: los cuatro puntos cardinales del mandala de la portada -->
+    <path d="M32 4.5v6M32 53.5v6M4.5 32h6M53.5 32h6" stroke-width="3.2"/>
+  </g>
+  <!-- Núcleo sólido: es lo único que se distingue con seguridad a 16 px -->
+  <circle cx="32" cy="32" r="7.5" fill="#E8E3D3"/>
+</svg>

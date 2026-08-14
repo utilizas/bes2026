@@ -1,0 +1,17 @@
+{
+  "name": "Biotecnología, ética y sociedad",
+  "short_name": "BES 2026",
+  "description": "Monografía técnica M3856121 · v.5 – 2026 · Universidad de Granada",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F3D36",
+  "theme_color": "#0F3D36",
+  "icons": [
+    { "src": "img/icon-192.png",          "sizes": "192x192", "type": "image/png", "purpose": "any"      },
+    { "src": "img/icon-512.png",          "sizes": "512x512", "type": "image/png", "purpose": "any"      },
+    { "src": "img/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "img/favicon.svg",           "sizes": "any",     "type": "image/svg+xml"                    }
+  ]
+}
