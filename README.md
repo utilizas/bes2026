@@ -1,15 +1,15 @@
 # Biotecnología, ética y sociedad
 
-**Monografía técnica M3856121 · v.5 – 2026**  
+### Monografía técnica M3856121 · v.5 – 2026  
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10200371-1682d4)](https://doi.org/10.5281/zenodo.10200371)
 [![Licencia: CC BY-NC-SA 4.0](https://img.shields.io/badge/Licencia-CC%20BY--NC--SA%204.0-lightgrey)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Miguel Moreno Muñoz · Universidad de Granada  
+Autor: **Miguel Moreno Muñoz · Universidad de Granada**  
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--0746--9587-a6ce39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-0746-9587)
 
 Material docente para el Máster Universitario en Biotecnología de la Universidad de Granada. Proporciona los elementos conceptuales necesarios para adquirir una perspectiva informada y crítica sobre las biotecnologías y sus aplicaciones, con especial atención a la distorsión de la opinión pública que producen ciertos patrones de comunicación de la ciencia.
 
-## Leer la monografía
+## Disponibilidad
 
 El sitio se despliega desde este repositorio en varios servicios espejo. Todos sirven el mismo contenido; si uno falla, cualquiera de los demás funciona.
 
