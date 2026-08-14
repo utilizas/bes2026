@@ -13,13 +13,7 @@ Material docente para el Máster Universitario en Biotecnología de la Universid
 
 <details>
   <summary>Ver portada</summary>
-  <br>
-
-  <img
-    src="img/cover2.png"
-    alt="Portada de la monografía: composición de estructuras geométricas concéntricas sobre fondo verde"
-    width="400"
-  >
+  <img src="img/cover2.png" alt="Portada de la monografía: composición de estructuras geométricas concéntricas sobre fondo verde" width="400">
 </details>
 
 ## Disponibilidad
